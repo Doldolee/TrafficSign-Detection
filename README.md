@@ -53,9 +53,9 @@ python test.py
 
 
 # Models
-- Faster-RCNN[1]
-- RetinaNet[2]
-- YoloX[3]
+- Faster-RCNN [1]
+- RetinaNet [2]
+- YoloX [3]
 
 
 # Result
