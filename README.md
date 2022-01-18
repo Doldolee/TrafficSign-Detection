@@ -9,8 +9,8 @@ At this project, train some detection models at TT-100k dataset and test at GTSD
 - mmdetection [[start guide](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md)]
 
 # Data set
-- [TT-100k](https://cg.cs.tsinghua.edu.cn/traffic-sign/)
-- [GTSD](https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/published-archive.html)
+- [TT-100k](https://cg.cs.tsinghua.edu.cn/traffic-sign/) [5]
+- [GTSD](https://sid.erda.dk/public/archives/ff17dc924eba88d5d01a807357d6614c/published-archive.html) [6]
 
 # Folder structure
 ```bash
@@ -84,4 +84,5 @@ python test.py
              Zhu, Chenchen and Cheng, Tianheng and Zhao, Qijie and Li, Buyu and
              Lu, Xin and Zhu, Rui and Wu, Yue and Dai, Jifeng and Wang, Jingdong
              and Shi, Jianping and Ouyang, Wanli and Loy, Chen Change and Lin, Dahua (2019) MMDetection:Open MMLab Detection Toolbox and Benchmark [paper](https://arxiv.org/abs/1906.07155)
-
+- [5] Sebastian Houben and Johannes Stallkamp and Jan Salmen and Marc Schlipsing and Christian Igel (2013) Detection of Traffic Signs in Real-World Images: The German Traffic Sign Detection Benchmark
+- [6] Zhe Zhu; Dun Liang; Songhai Zhang; Xiaolei Huang; Baoli Li; Shimin Hu (2016) Traffic-Sign Detection and Classification in the Wild [paper](https://ieeexplore.ieee.org/abstract/document/7780601)
