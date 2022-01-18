@@ -67,7 +67,7 @@ python test.py
 | RetinaNet         | 0.626    | 0.252   | 0.541   | 0.755     | 0.497    | 0.791    | 0.881   |
 | YoloX             | 0.667    | 0.346   | 0.542   | 0.733     | 0.472    | 0.682    | 0.862   | 
 
-## Test at GTSD [[result](https://github.com/ai-healthcare-lab/TrafficSign/blob/main/util/result.png)]
+## Test at GTSD [[result](https://github.com/ai-healthcare-lab/TrafficSign/blob/main/result/result.png)]
 | GTSD              | mAP      |
 | ----------------- | -------- |
 | Faster-RCNN       | 0.500    |
