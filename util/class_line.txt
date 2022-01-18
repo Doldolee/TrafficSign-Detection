@@ -1,0 +1,1 @@
+pn,pne,i5,p11,pl40,pl50,pl80,pl60,p26,i4,pl100,pl30,pl5,il60,i2,i2r,p5,w57,p10,p13,ip,i4l,pl120,il80,p23,pr40,w59,ph4.5,p12,w55,p3,pl20,pm20,pg,pl70,pm55,p27,il100,p19,w13,ph5,ph4,p6,w32,pm30
